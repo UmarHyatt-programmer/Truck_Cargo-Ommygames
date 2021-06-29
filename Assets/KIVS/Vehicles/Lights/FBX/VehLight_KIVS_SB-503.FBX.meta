@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 3846c5a473308254d97d532bc8a449e9
+timeCreated: 1505397044
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Flare KIVS SB-503 (Lft) BRAKE
+    100002: Flare KIVS SB-503 (Lft) PARKING
+    100004: Flare KIVS SB-503 (Lft) STEER
+    100006: Flare KIVS SB-503 (Rght) BRAKE
+    100008: Flare KIVS SB-503 (Rght) PARKING
+    100010: Flare KIVS SB-503 (Rght) STEER
+    100012: Object006
+    100014: VehLight KIVS SB-503 (Lft)
+    100016: VehLight KIVS SB-503 (Rght)
+    100018: VehLight KIVS SB-503 (Rvrs)
+    100020: //RootNode
+    100022: Flare KIVS SB-503 (Rght) REVERSE
+    400000: Flare KIVS SB-503 (Lft) BRAKE
+    400002: Flare KIVS SB-503 (Lft) PARKING
+    400004: Flare KIVS SB-503 (Lft) STEER
+    400006: Flare KIVS SB-503 (Rght) BRAKE
+    400008: Flare KIVS SB-503 (Rght) PARKING
+    400010: Flare KIVS SB-503 (Rght) STEER
+    400012: Object006
+    400014: VehLight KIVS SB-503 (Lft)
+    400016: VehLight KIVS SB-503 (Rght)
+    400018: VehLight KIVS SB-503 (Rvrs)
+    400020: //RootNode
+    400022: Flare KIVS SB-503 (Rght) REVERSE
+    2300000: Flare KIVS SB-503 (Lft) BRAKE
+    2300002: Flare KIVS SB-503 (Lft) PARKING
+    2300004: Flare KIVS SB-503 (Lft) STEER
+    2300006: Flare KIVS SB-503 (Rght) BRAKE
+    2300008: Flare KIVS SB-503 (Rght) PARKING
+    2300010: Flare KIVS SB-503 (Rght) STEER
+    2300012: Object006
+    2300014: VehLight KIVS SB-503 (Lft)
+    2300016: VehLight KIVS SB-503 (Rght)
+    2300018: VehLight KIVS SB-503 (Rvrs)
+    2300020: Flare KIVS SB-503 (Rght) REVERSE
+    3300000: Flare KIVS SB-503 (Lft) BRAKE
+    3300002: Flare KIVS SB-503 (Lft) PARKING
+    3300004: Flare KIVS SB-503 (Lft) STEER
+    3300006: Flare KIVS SB-503 (Rght) BRAKE
+    3300008: Flare KIVS SB-503 (Rght) PARKING
+    3300010: Flare KIVS SB-503 (Rght) STEER
+    3300012: Object006
+    3300014: VehLight KIVS SB-503 (Lft)
+    3300016: VehLight KIVS SB-503 (Rght)
+    3300018: VehLight KIVS SB-503 (Rvrs)
+    3300020: Flare KIVS SB-503 (Rght) REVERSE
+    4300000: VehLight KIVS SB-503 (Rvrs)
+    4300002: Object006
+    4300004: VehLight KIVS SB-503 (Lft)
+    4300006: Flare KIVS SB-503 (Lft) STEER
+    4300008: Flare KIVS SB-503 (Lft) PARKING
+    4300010: Flare KIVS SB-503 (Lft) BRAKE
+    4300012: VehLight KIVS SB-503 (Rght)
+    4300014: Flare KIVS SB-503 (Rght) BRAKE
+    4300016: Flare KIVS SB-503 (Rght) PARKING
+    4300018: Flare KIVS SB-503 (Rght) STEER
+    4300020: Flare KIVS SB-503 (Rght) REVERSE
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

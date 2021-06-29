@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 2b2bd1f1b5432074796f634ea02235f9
+timeCreated: 1508162798
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MTruck_6x4_BLS_exterior_LOD002
+    100004: Object006
+    100006: Object035
+    100008: MTruck_6x4_BLS_doorLeft
+    100010: MTruck_6x4_BLS_doorRight
+    100012: MTruck_6x4_BLS_exterior
+    100014: MTruck_steeringwheel_LOD0
+    100016: Object040
+    100018: MTruck_6x4_BLS_doorLeft_LOD0
+    100020: MTruck_6x4_BLS_doorRight_LOD0
+    100022: MTruck_6x4_BLS_exterior_LOD0
+    100024: MTruck_6x4_BLS_interior_LOD0
+    100026: Object028
+    100028: Object037
+    100030: Plane005
+    100032: Plane006
+    100034: _wheel_LF_pivot
+    100036: _wheel_LM_pivot
+    100038: _wheel_LR_pivot
+    100040: _wheel_RF_pivot
+    100042: _wheel_RM_pivot
+    100044: _wheel_RR_pivot
+    100046: _fifth-wheel_pivot
+    100048: MTruck_6x4_BLS_doorglassL_LOD0
+    100050: MTruck_6x4_BLS_doorglassL_LOD1
+    100052: MTruck_6x4_BLS_doorglassR_LOD0
+    100054: MTruck_6x4_BLS_doorglassR_LOD1
+    100056: MTruck_6x4_BLS_doorLeft_LOD1
+    100058: MTruck_6x4_BLS_doorRight_LOD1
+    100060: MTruck_6x4_BLS_exterior_LOD1
+    100062: MTruck_6x4_BLS_glass_LOD0
+    100064: MTruck_6x4_BLS_glass_LOD1
+    100066: MTruck_6x4_BLS_interior_LOD1
+    100068: MTruck_6x4_BLS_LOD2
+    400000: //RootNode
+    400002: MTruck_6x4_BLS_exterior_LOD002
+    400004: Object006
+    400006: Object035
+    400008: MTruck_6x4_BLS_doorLeft
+    400010: MTruck_6x4_BLS_doorRight
+    400012: MTruck_6x4_BLS_exterior
+    400014: MTruck_steeringwheel_LOD0
+    400016: Object040
+    400018: MTruck_6x4_BLS_doorLeft_LOD0
+    400020: MTruck_6x4_BLS_doorRight_LOD0
+    400022: MTruck_6x4_BLS_exterior_LOD0
+    400024: MTruck_6x4_BLS_interior_LOD0
+    400026: Object028
+    400028: Object037
+    400030: Plane005
+    400032: Plane006
+    400034: _wheel_LF_pivot
+    400036: _wheel_LM_pivot
+    400038: _wheel_LR_pivot
+    400040: _wheel_RF_pivot
+    400042: _wheel_RM_pivot
+    400044: _wheel_RR_pivot
+    400046: _fifth-wheel_pivot
+    400048: MTruck_6x4_BLS_doorglassL_LOD0
+    400050: MTruck_6x4_BLS_doorglassL_LOD1
+    400052: MTruck_6x4_BLS_doorglassR_LOD0
+    400054: MTruck_6x4_BLS_doorglassR_LOD1
+    400056: MTruck_6x4_BLS_doorLeft_LOD1
+    400058: MTruck_6x4_BLS_doorRight_LOD1
+    400060: MTruck_6x4_BLS_exterior_LOD1
+    400062: MTruck_6x4_BLS_glass_LOD0
+    400064: MTruck_6x4_BLS_glass_LOD1
+    400066: MTruck_6x4_BLS_interior_LOD1
+    400068: MTruck_6x4_BLS_LOD2
+    2300000: MTruck_6x4_BLS_exterior_LOD002
+    2300002: Object006
+    2300004: Object035
+    2300006: MTruck_6x4_BLS_doorLeft
+    2300008: MTruck_6x4_BLS_doorRight
+    2300010: MTruck_6x4_BLS_exterior
+    2300012: //RootNode
+    2300014: MTruck_steeringwheel_LOD0
+    2300016: Object040
+    2300018: MTruck_6x4_BLS_doorLeft_LOD0
+    2300020: MTruck_6x4_BLS_doorRight_LOD0
+    2300022: MTruck_6x4_BLS_exterior_LOD0
+    2300024: MTruck_6x4_BLS_interior_LOD0
+    2300026: Object028
+    2300028: Object037
+    2300030: Plane005
+    2300032: Plane006
+    2300034: MTruck_6x4_BLS_doorglassL_LOD0
+    2300036: MTruck_6x4_BLS_doorglassL_LOD1
+    2300038: MTruck_6x4_BLS_doorglassR_LOD0
+    2300040: MTruck_6x4_BLS_doorglassR_LOD1
+    2300042: MTruck_6x4_BLS_doorLeft_LOD1
+    2300044: MTruck_6x4_BLS_doorRight_LOD1
+    2300046: MTruck_6x4_BLS_exterior_LOD1
+    2300048: MTruck_6x4_BLS_glass_LOD0
+    2300050: MTruck_6x4_BLS_glass_LOD1
+    2300052: MTruck_6x4_BLS_interior_LOD1
+    2300054: MTruck_6x4_BLS_LOD2
+    3300000: MTruck_6x4_BLS_exterior_LOD002
+    3300002: Object006
+    3300004: Object035
+    3300006: MTruck_6x4_BLS_doorLeft
+    3300008: MTruck_6x4_BLS_doorRight
+    3300010: MTruck_6x4_BLS_exterior
+    3300012: //RootNode
+    3300014: MTruck_steeringwheel_LOD0
+    3300016: Object040
+    3300018: MTruck_6x4_BLS_doorLeft_LOD0
+    3300020: MTruck_6x4_BLS_doorRight_LOD0
+    3300022: MTruck_6x4_BLS_exterior_LOD0
+    3300024: MTruck_6x4_BLS_interior_LOD0
+    3300026: Object028
+    3300028: Object037
+    3300030: Plane005
+    3300032: Plane006
+    3300034: MTruck_6x4_BLS_doorglassL_LOD0
+    3300036: MTruck_6x4_BLS_doorglassL_LOD1
+    3300038: MTruck_6x4_BLS_doorglassR_LOD0
+    3300040: MTruck_6x4_BLS_doorglassR_LOD1
+    3300042: MTruck_6x4_BLS_doorLeft_LOD1
+    3300044: MTruck_6x4_BLS_doorRight_LOD1
+    3300046: MTruck_6x4_BLS_exterior_LOD1
+    3300048: MTruck_6x4_BLS_glass_LOD0
+    3300050: MTruck_6x4_BLS_glass_LOD1
+    3300052: MTruck_6x4_BLS_interior_LOD1
+    3300054: MTruck_6x4_BLS_LOD2
+    4300000: Object006
+    4300002: MTruck_6x4_BLS_exterior_LOD002
+    4300004: Object035
+    4300006: MTruck_6x4_BLS_doorLeft
+    4300008: MTruck_6x4_BLS_exterior
+    4300010: MTruck_6x4_BLS_doorRight
+    4300012: Object040
+    4300014: MTruck_steeringwheel_LOD0
+    4300016: Object028
+    4300018: MTruck_6x4_BLS_exterior_LOD0
+    4300020: MTruck_6x4_BLS_doorLeft_LOD0
+    4300022: MTruck_6x4_BLS_doorRight_LOD0
+    4300024: MTruck_6x4_BLS_interior_LOD0
+    4300026: Plane005
+    4300028: Plane006
+    4300030: Object037
+    4300032: MTruck_6x4_BLS_doorglassL_LOD0
+    4300034: MTruck_6x4_BLS_doorglassR_LOD0
+    4300036: MTruck_6x4_BLS_glass_LOD0
+    4300038: MTruck_6x4_BLS_exterior_LOD1
+    4300040: MTruck_6x4_BLS_doorRight_LOD1
+    4300042: MTruck_6x4_BLS_doorglassR_LOD1
+    4300044: MTruck_6x4_BLS_doorLeft_LOD1
+    4300046: MTruck_6x4_BLS_doorglassL_LOD1
+    4300048: MTruck_6x4_BLS_interior_LOD1
+    4300050: MTruck_6x4_BLS_glass_LOD1
+    4300052: MTruck_6x4_BLS_LOD2
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.7759423
+    - 0.10279025
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

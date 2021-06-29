@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: cdbd6da43caebcd47a68c19484d6ebc3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DS_Back_LOD0
+    100004: DS_Left1_LOD0
+    100006: DS_Left2_LOD0
+    100008: DS_Left3_LOD0
+    100010: DS_Left4_LOD0
+    100012: DS_Right1_LOD0
+    100014: DS_Right2_LOD0
+    100016: DS_Right3_LOD0
+    100018: DS_Right4_LOD0
+    100020: Drop-side_BRT967_LOD0
+    100022: Drop-side_BRT967_LOD1
+    100024: Drop-side_BRT967_LOD2
+    100026: DS_Back_LOD1
+    100028: DS_Back_LOD2
+    100030: DS_Left1_LOD1
+    100032: DS_Left1_LOD2
+    100034: DS_Left2_LOD1
+    100036: DS_Left2_LOD2
+    100038: DS_Left3_LOD1
+    100040: DS_Left3_LOD2
+    100042: DS_Left4_LOD1
+    100044: DS_Left4_LOD2
+    100046: DS_Right1_LOD1
+    100048: DS_Right1_LOD2
+    100050: DS_Right2_LOD1
+    100052: DS_Right2_LOD2
+    100054: DS_Right3_LOD1
+    100056: DS_Right3_LOD2
+    100058: DS_Right4_LOD1
+    100060: DS_Right4_LOD2
+    400000: //RootNode
+    400002: DS_Back_LOD0
+    400004: DS_Left1_LOD0
+    400006: DS_Left2_LOD0
+    400008: DS_Left3_LOD0
+    400010: DS_Left4_LOD0
+    400012: DS_Right1_LOD0
+    400014: DS_Right2_LOD0
+    400016: DS_Right3_LOD0
+    400018: DS_Right4_LOD0
+    400020: Drop-side_BRT967_LOD0
+    400022: Drop-side_BRT967_LOD1
+    400024: Drop-side_BRT967_LOD2
+    400026: DS_Back_LOD1
+    400028: DS_Back_LOD2
+    400030: DS_Left1_LOD1
+    400032: DS_Left1_LOD2
+    400034: DS_Left2_LOD1
+    400036: DS_Left2_LOD2
+    400038: DS_Left3_LOD1
+    400040: DS_Left3_LOD2
+    400042: DS_Left4_LOD1
+    400044: DS_Left4_LOD2
+    400046: DS_Right1_LOD1
+    400048: DS_Right1_LOD2
+    400050: DS_Right2_LOD1
+    400052: DS_Right2_LOD2
+    400054: DS_Right3_LOD1
+    400056: DS_Right3_LOD2
+    400058: DS_Right4_LOD1
+    400060: DS_Right4_LOD2
+    2100000: Drop-side BRT967
+    2300000: //RootNode
+    2300002: DS_Back_LOD0
+    2300004: DS_Left1_LOD0
+    2300006: DS_Left2_LOD0
+    2300008: DS_Left3_LOD0
+    2300010: DS_Left4_LOD0
+    2300012: DS_Right1_LOD0
+    2300014: DS_Right2_LOD0
+    2300016: DS_Right3_LOD0
+    2300018: DS_Right4_LOD0
+    2300020: Drop-side_BRT967_LOD0
+    2300022: Drop-side_BRT967_LOD1
+    2300024: Drop-side_BRT967_LOD2
+    2300026: DS_Back_LOD1
+    2300028: DS_Back_LOD2
+    2300030: DS_Left1_LOD1
+    2300032: DS_Left1_LOD2
+    2300034: DS_Left2_LOD1
+    2300036: DS_Left2_LOD2
+    2300038: DS_Left3_LOD1
+    2300040: DS_Left3_LOD2
+    2300042: DS_Left4_LOD1
+    2300044: DS_Left4_LOD2
+    2300046: DS_Right1_LOD1
+    2300048: DS_Right1_LOD2
+    2300050: DS_Right2_LOD1
+    2300052: DS_Right2_LOD2
+    2300054: DS_Right3_LOD1
+    2300056: DS_Right3_LOD2
+    2300058: DS_Right4_LOD1
+    2300060: DS_Right4_LOD2
+    3300000: //RootNode
+    3300002: DS_Back_LOD0
+    3300004: DS_Left1_LOD0
+    3300006: DS_Left2_LOD0
+    3300008: DS_Left3_LOD0
+    3300010: DS_Left4_LOD0
+    3300012: DS_Right1_LOD0
+    3300014: DS_Right2_LOD0
+    3300016: DS_Right3_LOD0
+    3300018: DS_Right4_LOD0
+    3300020: Drop-side_BRT967_LOD0
+    3300022: Drop-side_BRT967_LOD1
+    3300024: Drop-side_BRT967_LOD2
+    3300026: DS_Back_LOD1
+    3300028: DS_Back_LOD2
+    3300030: DS_Left1_LOD1
+    3300032: DS_Left1_LOD2
+    3300034: DS_Left2_LOD1
+    3300036: DS_Left2_LOD2
+    3300038: DS_Left3_LOD1
+    3300040: DS_Left3_LOD2
+    3300042: DS_Left4_LOD1
+    3300044: DS_Left4_LOD2
+    3300046: DS_Right1_LOD1
+    3300048: DS_Right1_LOD2
+    3300050: DS_Right2_LOD1
+    3300052: DS_Right2_LOD2
+    3300054: DS_Right3_LOD1
+    3300056: DS_Right3_LOD2
+    3300058: DS_Right4_LOD1
+    3300060: DS_Right4_LOD2
+    4300000: Drop-side_BRT967_LOD0
+    4300002: DS_Left1_LOD0
+    4300004: DS_Left2_LOD0
+    4300006: DS_Left3_LOD0
+    4300008: DS_Left4_LOD0
+    4300010: DS_Right1_LOD0
+    4300012: DS_Right2_LOD0
+    4300014: DS_Right3_LOD0
+    4300016: DS_Right4_LOD0
+    4300018: DS_Back_LOD0
+    4300020: Drop-side_BRT967_LOD1
+    4300022: DS_Left3_LOD1
+    4300024: DS_Left4_LOD1
+    4300026: DS_Right1_LOD1
+    4300028: DS_Right2_LOD1
+    4300030: DS_Right3_LOD1
+    4300032: DS_Right4_LOD1
+    4300034: DS_Back_LOD1
+    4300036: DS_Left2_LOD1
+    4300038: DS_Left1_LOD1
+    4300040: Drop-side_BRT967_LOD2
+    4300042: DS_Left4_LOD2
+    4300044: DS_Left2_LOD2
+    4300046: DS_Left3_LOD2
+    4300048: DS_Left1_LOD2
+    4300050: DS_Back_LOD2
+    4300052: DS_Right4_LOD2
+    4300054: DS_Right1_LOD2
+    4300056: DS_Right2_LOD2
+    4300058: DS_Right3_LOD2
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drop-side BRT967
+    second: {fileID: 2100000, guid: 6575264ce389f9940bc8395c6bab707a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

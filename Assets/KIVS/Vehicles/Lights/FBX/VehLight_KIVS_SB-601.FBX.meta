@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: ccc9a41b8d1f1cf4fb10acfbd716f811
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Flare KIVS SB-601 (Lft) BRAKE
+    100002: Flare KIVS SB-601 (Lft) PARKING
+    100004: Flare KIVS SB-601 (Lft) REVERSE
+    100006: Flare KIVS SB-601 (Lft) STEER
+    100008: Flare KIVS SB-601 (Rght) BRAKE
+    100010: Flare KIVS SB-601 (Rght) PARKING
+    100012: Flare KIVS SB-601 (Rght) REVERSE
+    100014: Flare KIVS SB-601 (Rght) STEER
+    100016: VehLight KIVS SB-601 (Lft)
+    100018: VehLight KIVS SB-601 (Rght)
+    100020: //RootNode
+    400000: Flare KIVS SB-601 (Lft) BRAKE
+    400002: Flare KIVS SB-601 (Lft) PARKING
+    400004: Flare KIVS SB-601 (Lft) REVERSE
+    400006: Flare KIVS SB-601 (Lft) STEER
+    400008: Flare KIVS SB-601 (Rght) BRAKE
+    400010: Flare KIVS SB-601 (Rght) PARKING
+    400012: Flare KIVS SB-601 (Rght) REVERSE
+    400014: Flare KIVS SB-601 (Rght) STEER
+    400016: VehLight KIVS SB-601 (Lft)
+    400018: VehLight KIVS SB-601 (Rght)
+    400020: //RootNode
+    2100000: VehLight KIVS SB-601
+    2300000: Flare KIVS SB-601 (Lft) BRAKE
+    2300002: Flare KIVS SB-601 (Lft) PARKING
+    2300004: Flare KIVS SB-601 (Lft) REVERSE
+    2300006: Flare KIVS SB-601 (Lft) STEER
+    2300008: Flare KIVS SB-601 (Rght) BRAKE
+    2300010: Flare KIVS SB-601 (Rght) PARKING
+    2300012: Flare KIVS SB-601 (Rght) REVERSE
+    2300014: Flare KIVS SB-601 (Rght) STEER
+    2300016: VehLight KIVS SB-601 (Lft)
+    2300018: VehLight KIVS SB-601 (Rght)
+    3300000: Flare KIVS SB-601 (Lft) BRAKE
+    3300002: Flare KIVS SB-601 (Lft) PARKING
+    3300004: Flare KIVS SB-601 (Lft) REVERSE
+    3300006: Flare KIVS SB-601 (Lft) STEER
+    3300008: Flare KIVS SB-601 (Rght) BRAKE
+    3300010: Flare KIVS SB-601 (Rght) PARKING
+    3300012: Flare KIVS SB-601 (Rght) REVERSE
+    3300014: Flare KIVS SB-601 (Rght) STEER
+    3300016: VehLight KIVS SB-601 (Lft)
+    3300018: VehLight KIVS SB-601 (Rght)
+    4300000: VehLight KIVS SB-601 (Lft)
+    4300002: Flare KIVS SB-601 (Lft) PARKING
+    4300004: Flare KIVS SB-601 (Lft) REVERSE
+    4300006: Flare KIVS SB-601 (Lft) STEER
+    4300008: Flare KIVS SB-601 (Lft) BRAKE
+    4300010: VehLight KIVS SB-601 (Rght)
+    4300012: Flare KIVS SB-601 (Rght) PARKING
+    4300014: Flare KIVS SB-601 (Rght) BRAKE
+    4300016: Flare KIVS SB-601 (Rght) REVERSE
+    4300018: Flare KIVS SB-601 (Rght) STEER
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
