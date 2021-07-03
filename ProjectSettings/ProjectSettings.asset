@@ -577,6 +577,8 @@ PlayerSettings:
   switchSocketInitializeEnabled: 1
   switchNetworkInterfaceManagerInitializeEnabled: 1
   switchPlayerConnectionEnabled: 1
+  switchUseMicroSleepForYield: 1
+  switchMicroSleepForYieldTime: 25
   ps4NPAgeRating: 12
   ps4NPTitleSecret: 
   ps4NPTrophyPackPath: 
@@ -696,7 +698,7 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLWasmStreaming: 0
   scriptingDefineSymbols:
-    1: BCG_RCC
+    1: BCG_RCC;MAPMAGIC2;MM_NATIVE
     4: BCG_RCC
     7: MAPMAGIC2;MM_NATIVE;BCG_RCC
     13: BCG_RCC
