@@ -700,7 +700,7 @@ PlayerSettings:
   scriptingDefineSymbols:
     1: BCG_RCC;MAPMAGIC2;MM_NATIVE
     4: BCG_RCC
-    7: MAPMAGIC2;MM_NATIVE;BCG_RCC
+    7: MAPMAGIC2;MM_NATIVE;BCG_RCC;AURA_IN_PROJECT
     13: BCG_RCC
     19: BCG_RCC
     21: BCG_RCC
@@ -711,6 +711,7 @@ PlayerSettings:
   il2cppCompilerConfiguration: {}
   managedStrippingLevel: {}
   incrementalIl2cppBuild: {}
+  suppressCommonWarnings: 1
   allowUnsafeCode: 0
   additionalIl2CppArgs: 
   scriptingRuntimeVersion: 1

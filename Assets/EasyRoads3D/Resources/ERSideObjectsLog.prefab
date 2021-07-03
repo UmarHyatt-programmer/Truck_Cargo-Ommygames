@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &5409384738935744510
+--- !u!1 &5214046683519028904
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,8 +8,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 7480605310548099955}
-  - component: {fileID: 5776119717737759657}
+  - component: {fileID: 4016988678889814968}
+  - component: {fileID: 1122740157224327341}
   m_Layer: 0
   m_Name: ERSideObjectsLog
   m_TagString: Untagged
@@ -17,13 +17,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &7480605310548099955
+--- !u!4 &4016988678889814968
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5409384738935744510}
+  m_GameObject: {fileID: 5214046683519028904}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -31,13 +31,13 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5776119717737759657
+--- !u!114 &1122740157224327341
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5409384738935744510}
+  m_GameObject: {fileID: 5214046683519028904}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 353395545, guid: f56d46228aee4734f9114056c53bb57e, type: 3}
@@ -55,7 +55,7 @@ MonoBehaviour:
     uvTiling: 1
     uv4Type: 0
     type: 0
-    detailDistance: 0
+    detailDistance: 50
     planarUVs: 0
     outerIndent: 0
     roadShapeDataActive: 0
@@ -81,9 +81,9 @@ MonoBehaviour:
       selectedLaneNode: 0
       isSymmetrical: 0
       isset: 0
-    minSpeed: 0
-    maxSpeed: 0
-    speedLimit: 0
+    minSpeed: 45
+    maxSpeed: 55
+    speedLimit: 50
     roadShape:
     - {x: -3, y: 0}
     - {x: 3, y: 0}
@@ -114,58 +114,10 @@ MonoBehaviour:
     subSegments: 1
     soData: []
     soDataExt: []
-    soDataLog:
-    - id: 1439970267.5877771
-      active: 0
-    - id: 4
-      active: 0
-    - id: 3
-      active: 0
-    - id: 1422295189.0945766
-      active: 0
-    - id: 1422205435.6632535
-      active: 0
-    - id: 1422205525.016364
-      active: 0
-    - id: 1422201194.1206512
-      active: 0
-    - id: 1422201446.4010808
-      active: 0
-    - id: 1
-      active: 0
-    - id: 2
-      active: 0
-    - id: 1422283879.5397072
-      active: 0
-    - id: 1422283828.2437732
-      active: 0
-    - id: 1422360239.977985
-      active: 0
-    - id: 1422360127.2965398
-      active: 0
-    - id: 1477318170.983913
-      active: 0
-    - id: 1422283787.149423
-      active: 0
-    - id: 1422280172.2846642
-      active: 0
-    - id: 1454519638.6173558
-      active: 0
-    - id: 6
-      active: 0
-    - id: 5
-      active: 0
-    - id: 1438703293.2729063
-      active: 0
-    - id: 1454521147.777675
-      active: 0
-    - id: 1424540279.96035
-      active: 0
-    - id: 1424540150.6289527
-      active: 0
+    soDataLog: []
     layer: 0
     isStatic: 0
-    tag: 
+    tag: Untagged
     splatMapActive: 0
     splatIndex: 0
     expandLevel: 0
