@@ -750,7 +750,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 825552722530807799}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 2f0051c0816aede488419a92df674d2d, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -2802,7 +2802,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4379086434872963646}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 2f0051c0816aede488419a92df674d2d, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
@@ -4766,7 +4766,7 @@ MonoBehaviour:
   SteeringWheel: {fileID: 0}
   steeringWheelRotateAround: 0
   steeringWheelAngleMultiplier: 11
-  wheelTypeChoise: 2
+  wheelTypeChoise: 3
   externalController: 0
   rigid: {fileID: 0}
   COM: {fileID: 8785540451993491091}
@@ -4859,7 +4859,7 @@ MonoBehaviour:
   finalRatio: 3.23
   gearShiftingDelay: 0.35
   gearShiftingThreshold: 0.75
-  clutchInertia: 0.9
+  clutchInertia: 0.1
   gearShiftUpRPM: 5250
   gearShiftDownRPM: 3000
   changingGear: 0

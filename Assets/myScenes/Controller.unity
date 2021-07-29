@@ -826,58 +826,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 819971469277903939, guid: e3bd78ad228c6f140ae337a8a4098789,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 819971469277903939, guid: e3bd78ad228c6f140ae337a8a4098789,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 819971469277903939, guid: e3bd78ad228c6f140ae337a8a4098789,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 819971469277903939, guid: e3bd78ad228c6f140ae337a8a4098789,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 820018643128329445, guid: e3bd78ad228c6f140ae337a8a4098789,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.49997064
-      objectReference: {fileID: 0}
-    - target: {fileID: 820018643128329445, guid: e3bd78ad228c6f140ae337a8a4098789,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.49997064
-      objectReference: {fileID: 0}
-    - target: {fileID: 820018643128329445, guid: e3bd78ad228c6f140ae337a8a4098789,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0.5000293
-      objectReference: {fileID: 0}
-    - target: {fileID: 820018643128329445, guid: e3bd78ad228c6f140ae337a8a4098789,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.5000293
-      objectReference: {fileID: 0}
-    - target: {fileID: 825552722530807796, guid: e3bd78ad228c6f140ae337a8a4098789,
-        type: 3}
-      propertyPath: m_Material
-      value: 
-      objectReference: {fileID: 13400000, guid: 2f0051c0816aede488419a92df674d2d,
-        type: 2}
-    - target: {fileID: 4379086434872963645, guid: e3bd78ad228c6f140ae337a8a4098789,
-        type: 3}
-      propertyPath: m_Material
-      value: 
-      objectReference: {fileID: 13400000, guid: 2f0051c0816aede488419a92df674d2d,
-        type: 2}
     - target: {fileID: 8785540452507696100, guid: e3bd78ad228c6f140ae337a8a4098789,
         type: 3}
       propertyPath: m_Name
@@ -937,16 +885,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8785540452507696123, guid: e3bd78ad228c6f140ae337a8a4098789,
-        type: 3}
-      propertyPath: clutchInertia
-      value: 0.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8785540452507696123, guid: e3bd78ad228c6f140ae337a8a4098789,
-        type: 3}
-      propertyPath: wheelTypeChoise
-      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e3bd78ad228c6f140ae337a8a4098789, type: 3}
